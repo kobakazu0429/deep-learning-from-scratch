@@ -1,0 +1,6 @@
+{
+  "python.pythonPath": "/Users/kazu/.local/share/virtualenvs/deep-learning-from-scratch-kzTbVVUH/bin/python",
+  "python.linting.pylintEnabled": false,
+  "python.linting.flake8Enabled": true,
+  "python.linting.enabled": true
+}
